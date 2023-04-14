@@ -19,6 +19,8 @@
   <img align="center" alt="Eliton-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Eliton-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Eliton-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Eliton-c++" height="30" width="40" src="https://camo.githubusercontent.com/91be18bebd8afe5f89a4fb59eeb04ab47b5729a29c868185ee5221407a741c87/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667">
+ 
 
 </div>
 
